@@ -29,10 +29,10 @@ yarn install
 yarn start
 ```
 
-### Étape 3: Démarrage de l'application frontale
+### Étape 3: Démarrage de l'application front
 
 1. Ouvrez une autre fenêtre de terminal et accédez au dossier Front.
-2. Exécutez la commande suivante pour démarrer l'application frontale :
+2. Exécutez la commande suivante pour démarrer l'application front :
 
 ```
 yarn start
