@@ -1,6 +1,6 @@
 # Chatroom
 
-![screen shot apercu de Task-Manager](./screenshot.png)
+![screen shot apercu de Chatroom](./screenshot.png)
 
 **Chatroom** est une application web de messagerie instantannée, alimentée par Express pour l'API, React pour le front-end et WebSocket pour une expérience de messagerie instantanée.
 
@@ -22,7 +22,7 @@ yarn install
 
 ### Étape 2: Démarrage de l'API
 
-1. Ouvrez une fenêtre de terminal et accédez au dossier de l'API.
+1. Ouvrez une fenêtre de terminal et accédez au dossier api.
 2. Exécutez la commande suivante pour démarrer l'API :
 
 ```
@@ -31,7 +31,7 @@ yarn start
 
 ### Étape 3: Démarrage de l'application front
 
-1. Ouvrez une autre fenêtre de terminal et accédez au dossier Front.
+1. Ouvrez une autre fenêtre de terminal et accédez au dossier front.
 2. Exécutez la commande suivante pour démarrer l'application front :
 
 ```
